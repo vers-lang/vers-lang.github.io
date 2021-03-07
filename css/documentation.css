@@ -1,0 +1,29 @@
+.doc_topics {
+    background-color: #005a1c;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.doc_links {
+    background-color: #005a1c;
+}
+
+.doc_links a {
+    color: #175ff5;
+}
+
+.topic_descriptions {
+    background-color: #005a1c;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.topic_descriptions h2 {
+    color: #175ff5;
+}
+
+.topic_descriptions p {
+    color: #ffffff;
+}

@@ -2,10 +2,23 @@ body {
     background-color: #003300;
 }
 
-h1 {
-    color: #00b33c;
+.title h1 {
+    color: #009e34;
 }
 
-h3 {
-    color: #1a75ff;
+.title h3 {
+    color: #175ff5;
+}
+
+.title {
+    background-color: #005a1c;
+}
+
+.menu {
+    background-color: #005a1c;
+}
+
+.menu button {
+    background-color: #175ff5;
+    color: #ffffff;
 }
