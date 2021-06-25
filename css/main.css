@@ -1,0 +1,49 @@
+body {
+    background-color: #003300;
+}
+
+.title h1 {
+    color: #009e34;
+}
+
+.title h3 {
+    color: #175ff5;
+}
+
+.title {
+    background-color: #005a1c;
+}
+
+.main {
+    background-color: #005a1c;
+}
+
+.main_content {
+    margin: 2%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+}
+
+.vers_code {
+    background-color: #4d4d4d;
+    margin-right: 75%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
