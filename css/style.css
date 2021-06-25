@@ -22,3 +22,15 @@ body {
     background-color: #175ff5;
     color: #ffffff;
 }
+
+.install {
+    background-color: #005a1c;
+}
+
+.install h3 {
+    color: #ffffff;
+}
+
+.install p {
+    color: #ffffff;
+}

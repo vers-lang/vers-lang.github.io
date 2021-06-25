@@ -6,6 +6,10 @@
     margin-bottom: 5px;
 }
 
-.about h4 {
+.about h3 {
+    color: #ffffff;
+}
+
+.about p {
     color: #ffffff;
 }
